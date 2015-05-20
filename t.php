@@ -9,7 +9,7 @@
         <a href="yoneticiSayfasi.php"><p size=5>yoneticiSayfasi.php </p></a><br/>
         <a href="sinavOlForm.php"><p size=5>sinavol form.php </p></a><br/>
 
-        <a href="sinavOl.php"><p size=5>sinav ol </p></a><br/>
+        <a href="sinavOl2.php"><p size=5>sinav ol </p></a><br/>
 
         <a href="soruekle.php"><p size=5>soruekle.php</p></a><br/>
         <a href="kayitform.php"><p size=5>kayitform.php</p></a><br/>
