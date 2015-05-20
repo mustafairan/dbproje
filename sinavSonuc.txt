@@ -1,0 +1,23 @@
+<?php
+//dogru soru numaralarını donduren fonksiyon
+function yanlislar(){}
+function dogrular(){}
+
+//dogru yanlıs soruların belirtilip puan hesaplanmasi
+function sinav_sonrasi(){
+         
+         
+         //yanlıs soru numaralarını donduren fonksıyon
+         yanlislar();
+         //dogru soru numaralarını donduren fonksıyon
+         dogrular();
+         
+         //dogru yanlıs ve bos ve soru sayısını kullanıcı gecmisine kaydetme
+
+}
+
+
+                
+//soruları uyenin puanlanması
+
+?>
